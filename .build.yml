@@ -3,7 +3,7 @@ oauth: pages.sr.ht/PAGES:RW
 packages:
 - hut
 environment:
-  site: office.cleberg.net
+  site: office.cmc.pub
 tasks:
 - package: |
     cd $site
