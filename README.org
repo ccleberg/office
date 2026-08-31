@@ -1,0 +1,5 @@
+#+title: office
+
+* what
+fork of awfice with minor edits.
+https://github.com/zserge/awfice
